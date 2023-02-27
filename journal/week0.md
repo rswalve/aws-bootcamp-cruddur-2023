@@ -12,6 +12,6 @@ Created my AWS Admin User
 ![image](https://user-images.githubusercontent.com/10476765/221623307-88b15b4c-a56f-43b0-a161-39f98645516d.png)
 
 Used CloudShell:
-![image](https://user-images.githubusercontent.com/10476765/221623987-1bb806b7-89b8-40f0-ad25-cfcceb041938.png)
+![image](https://user-images.githubusercontent.com/10476765/221629024-e331b58a-676f-4a06-b67a-e5d69fa372b4.png)
 
 
