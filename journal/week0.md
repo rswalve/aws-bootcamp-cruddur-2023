@@ -14,4 +14,6 @@ Created my AWS Admin User
 Used CloudShell:
 ![image](https://user-images.githubusercontent.com/10476765/221629024-e331b58a-676f-4a06-b67a-e5d69fa372b4.png)
 
+Gitpod configuration:
+![image](https://user-images.githubusercontent.com/10476765/221630780-288f049e-f89e-43be-acfc-6183f3746a18.png)
 
